@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": false,
+      "cwd": "c:/httpd-2.4.49-win64-VS16/Apache24/htdocs/Website IMPORTANT Content/Schwarz/MAIN CONTENT/assets/SVGs_All/Home Page",
+      "environment": [],
+      "program": "c:/httpd-2.4.49-win64-VS16/Apache24/htdocs/Website IMPORTANT Content/Schwarz/MAIN CONTENT/assets/SVGs_All/Home Page/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/Program Files/msys64/mingw64/bin/gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

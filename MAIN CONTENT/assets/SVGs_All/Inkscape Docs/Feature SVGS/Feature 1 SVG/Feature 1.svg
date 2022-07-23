@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Feature 1.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <style
+     id="style889">#path851, #path852,#Yellow {  }
+</style>
+  <defs
+     id="defs1402">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2074">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2064" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite2066" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="34.0426"
+         result="blur"
+         id="feGaussianBlur2068" />
+      <feOffset
+         dx="27.3414"
+         dy="27.3414"
+         result="offset"
+         id="feOffset2070" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2072" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1074">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(184,184,184)"
+         result="flood"
+         id="feFlood1064" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1066" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="12.1581"
+         result="blur"
+         id="feGaussianBlur1068" />
+      <feOffset
+         dx="0"
+         dy="5.58912"
+         result="offset"
+         id="feOffset1070" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1072" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter864">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood854" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite856" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="12.1581"
+         result="blur"
+         id="feGaussianBlur858" />
+      <feOffset
+         dx="0"
+         dy="5.58912"
+         result="offset"
+         id="feOffset860" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite862" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter876">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood866" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite868" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="12.1581"
+         result="blur"
+         id="feGaussianBlur870" />
+      <feOffset
+         dx="0"
+         dy="5.58912"
+         result="offset"
+         id="feOffset872" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite874" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="554.17295"
+     inkscape:cy="937.56974"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata1405">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#030024;fill-opacity:1;stroke:none;stroke-width:0.847652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter864)"
+       d="M 33.019941,164.05734 163.34106,474.47311 c 0,0 39.56501,95.36768 125.65774,72.35934 86.09274,-23.00832 65.56148,-113.25967 65.56148,-113.25967 L 233.64587,164.05734 Z"
+       id="Blue"
+       transform="matrix(1.0004771,0,0,0.99524375,-0.0929665,2.7092544)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <title
+         id="title891">Blue</title>
+    </path>
+    <path
+       style="fill:#ff8f00;fill-opacity:1;stroke:none;stroke-width:0.836213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter876)"
+       d="M 9.0913694,161.62441 137.48614,468.25137 c 0,0 38.98018,94.20365 123.80032,71.47615 84.82016,-22.72749 64.59239,-111.87728 64.59239,-111.87728 L 206.75173,161.62441 Z"
+       id="Yellow"
+       transform="matrix(0.98880068,0,0,0.98880068,-0.25532571,3.947144)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

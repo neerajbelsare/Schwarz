@@ -1,0 +1,717 @@
+@media (min-width: 575px) {
+  #privacy-svg-1 {
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 574px) {
+  #privacy-svg-1 {
+    display: block;
+    width: 33%;
+    margin-left: 10%;
+  }
+}
+
+@media (min-width: 575px) {
+  .para-1 {
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 80%;
+    padding-left: 55px;
+    height: 20%;
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 361px) {
+  .para-1 {
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 50%;
+    padding-left: 55px;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 575px) {
+  #interpretations-and-definitions {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.5em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #interpretations-and-definitions {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.5em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 362px) and (max-width: 574px) {
+  #interpretations-and-definitions {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.5em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #tracking-technologies {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.5em;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    padding-right: 40px;
+  }
+}
+
+@media (min-width: 575px) {
+  #collecting-and-using-your-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 362px) and (max-width: 574px) {
+  #collecting-and-using-your-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #collecting-and-using-your-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #tracking-technologies {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 575px) {
+  #list-2 {
+    margin-bottom: 0px;
+    margin-left: 55px;
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 70%;
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 361px) {
+  #list-2 {
+    margin-bottom: 0px;
+    margin-left: 55px;
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 40%;
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 362px) and (max-width: 574px) {
+  #list-2 {
+    margin-bottom: 0px;
+    margin-left: 55px;
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 70%;
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 575px) {
+  #privacy-svg2 {
+    display: block;
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+  }
+}
+
+@media (max-width: 361px) {
+  #privacy-svg2 {
+    display: block;
+    width: 33%;
+    margin-top: 8%;
+    margin-left: 9%;
+  }
+}
+
+@media (min-width: 362px) and (max-width: 575px) {
+  #privacy-svg2 {
+    display: block;
+    width: 33%;
+    margin-top: 8%;
+    margin-left: 10%;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #list1 {
+    margin-left: 55px;
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 73%;
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 575px) {
+  #info-from-third-party {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #info-from-third-party {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 361px) {
+  #info-from-third-party {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.5em;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 575px) {
+  #tracking-technologies {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+#definitions {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 22px;
+  width: 70%;
+  color: rgb(56,57,58);
+  padding-left: 55px;
+  margin-bottom: 0px;
+}
+
+#types-of-data {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 1.2em;
+  width: 70%;
+  color: rgb(56,57,58);
+  padding-left: 55px;
+  margin-bottom: 0px;
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #tracking-technologies {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 60%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 575px) {
+  #list-3 {
+    margin-bottom: 0px;
+    margin-left: 3%;
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 70%;
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #list-3 {
+    font-family: 'SF Pro Display';
+    width: 40% !important;
+    margin-left: 9%;
+    color: rgb(82,83,85);
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #para-2 {
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 40%;
+    margin-left: 10%;
+  }
+}
+
+@media (min-width: 575px) {
+  #para-2 {
+    padding-left: 5%;
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 80%;
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 361px) {
+  #para-2 {
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 40%;
+    margin-left: 10%;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 361px) {
+  #list-3 {
+    font-family: 'SF Pro Display';
+    width: 40%;
+    color: rgb(82,83,85);
+    margin-left: 4%;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #list-5 {
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    margin-left: 10%;
+    width: 40%;
+  }
+}
+
+@media (min-width: 575px) {
+  #list-5 {
+    margin-bottom: 0px;
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    width: 80%;
+    font-size: 1em;
+    margin-left: 3%;
+  }
+}
+
+@media (max-width: 361px) {
+  #list-5 {
+    font-family: 'SF Pro Display';
+    color: rgb(82,83,85);
+    margin-left: 6%;
+    width: 40%;
+  }
+}
+
+@media (min-width: 575px) {
+  #use-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #use-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.5em;
+    width: 40%;
+    color: rgb(56,57,58);
+    margin-bottom: 0px;
+    margin-top: 68px;
+    margin-left: 6%;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #use-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 50%;
+    color: rgb(56,57,58);
+    margin-top: 68px;
+    margin-left: 6%;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #retention-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #retention-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 575px) {
+  #retention-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #transfer-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #transfer-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 575px) {
+  #transfer-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #disclosure-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #disclosure-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 575px) {
+  #disclosure-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+@media (max-width: 361px) {
+  #other-requirements {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 361px) and (max-width:575px) {
+  #other-requirements {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 575px) {
+  #other-requirements {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 22px;
+    width: 60%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #security-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #security-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 575px) {
+  #security-of-your-personal-data {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #link-to-other-websites {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 575px) {
+  #link-to-other-websites {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 575px) {
+  #link-to-other-websites {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 361px) {
+  #changes-to-privacy-policy {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 40%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 360px) and (max-width: 575px) {
+  #changes-to-privacy-policy {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 50%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+@media (min-width: 575px) {
+  #changes-to-privacy-policy {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.6em;
+    width: 70%;
+    color: rgb(56,57,58);
+    padding-left: 55px;
+    margin-bottom: 0px;
+    margin-top: 68px;
+  }
+}
+
+#privacy-policy-table {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#heading-content {
+  height: 72.8px;
+  border-bottom: solid 1px #c8c8c8;
+}
+
+#heading-1-content {
+  font-family: 'SF Pro Display';
+  padding-top: 20px;
+  font-weight: bold;
+  color: rgb(50,53,57);
+  font-size: 22px;
+  padding-left: 10px;
+  width: 100%;
+}
+
+#sidebar-toggle {
+  height: 80px;
+}
+
+#toggle-button {
+  transform: scale(1.4);
+  display: block;
+  margin: auto;
+}
+
+#content-1 {
+  width: 100%;
+}
+
+#link-1-sidebar {
+  color: rgb(51,51,51);
+  font-family: 'SF Pro Display';
+  font-size: 14px;
+  padding-left: 11px;
+  text-decoration: none;
+  position: relative;
+  top: 8px;
+}
+
+#link-1-row {
+  border-top-right-radius: 85px;
+  background: rgba(166,205,241,0.46);
+  border-bottom-right-radius: 85px;
+}
+
